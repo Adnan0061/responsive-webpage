@@ -420,3 +420,37 @@ footer p {
     content: "\f09a";
     padding: 0 3px;
 }
+
+
+@media (min-width: 992px) {
+
+	.banner-box h2 {
+	    margin-top: 200px;
+		font-size: 60px;
+		font-family: 'Lato', sans-serif;}
+
+	.btn.btn-dark {
+	    margin: 30px 0 150px;
+	    background: none;
+	    border: 1px solid #15A4FA;}
+
+	.banner-box a i {
+	    margin: 0 0 60px;}
+}
+
+@media (min-width: 1200px) {
+
+	.banner-box h2 {
+	    margin-top: 200px;
+		font-size: 60px;
+		font-family: 'Lato', sans-serif;}
+
+	.btn.btn-dark {
+	    margin: 30px 0 150px;
+	    background: none;
+	    border: 1px solid #15A4FA;}
+
+	.banner-box a i {
+	    margin: 0 0 60px;}
+
+}
