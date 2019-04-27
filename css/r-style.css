@@ -380,6 +380,8 @@ hr {
 	display: inline-block;	
 	float: right;
 	margin: 10px 0 50px 0;
+    background: none;
+    border: 1px solid #15A4FA;
 }
 
 footer {
