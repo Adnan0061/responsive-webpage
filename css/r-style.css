@@ -1,3 +1,7 @@
+.navbar.navbar-light.bg-light img {
+	width: 70%;
+}
+
 .banner {
 	width: 100%;
     float: left;
@@ -423,6 +427,9 @@ footer p {
 
 
 @media (min-width: 992px) {
+	
+	.navbar.navbar-light.bg-light img {
+	width: 100%;}
 
 	.banner-box h2 {
 	    margin-top: 200px;
@@ -439,6 +446,9 @@ footer p {
 }
 
 @media (min-width: 1200px) {
+
+	.navbar.navbar-light.bg-light img {
+	width: 100%;}
 
 	.banner-box h2 {
 	    margin-top: 200px;
